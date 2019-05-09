@@ -1,0 +1,11 @@
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\bin\Debug\data_gridkitleindex.exe.config
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\bin\Debug\data_gridkitleindex.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\bin\Debug\data_gridkitleindex.pdb
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\obj\Debug\data_gridkitleindex.Form1.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\obj\Debug\data_gridkitleindex.Properties.Resources.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\obj\Debug\data_gridkitleindex.csproj.GenerateResource.Cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\obj\Debug\data_gridkitleindex.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\data_gridkitleindex\data_gridkitleindex\obj\Debug\data_gridkitleindex.pdb
+C:\Users\eyupc\Desktop\Yeni klasör (3)\data_gridkitleindex\data_gridkitleindex\bin\Debug\data_gridkitleindex.exe.config
+C:\Users\eyupc\Desktop\Yeni klasör (3)\data_gridkitleindex\data_gridkitleindex\obj\Debug\data_gridkitleindex.exe
+C:\Users\eyupc\Desktop\Yeni klasör (3)\data_gridkitleindex\data_gridkitleindex\obj\Debug\data_gridkitleindex.pdb
